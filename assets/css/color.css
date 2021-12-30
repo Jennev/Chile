@@ -1,0 +1,12 @@
+:root {
+    --celeste-color: #25caf0; 
+    --gris-color: #c8cfc9;
+
+
+}
+
+.celes {
+    background-color: var(--card-color);
+}
+
+
