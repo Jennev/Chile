@@ -16,7 +16,7 @@ body {
 
 h3 {
   text-align: center;
-  color:var(--gris-color);
+  color: white;
   padding-top: 50px;
   padding-bottom: 10px;
   font-weight: 100;
@@ -48,9 +48,14 @@ hr {
   aspect-ratio: 4/3;
 }
 
-
 #destacados .card {
   background-color:var(--celeste-color);
+  color: white;
+}
+
+
+#contacto {
+  color: white;
 }
 
 .btn {
@@ -60,7 +65,12 @@ hr {
 footer {
   background-color: var(--celeste-color);
   color: white;
-  height: 90px;
-  text-align: center;
+  margin-top: 40px;
+  padding: 40px;
+}
+
+h4 {
+  font-size: 30px;
+
 }
 
