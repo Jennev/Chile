@@ -79,7 +79,3 @@ a {
 a:hover{
   color: var(--gris-color);
 }
-
-a:visited {
-  color: rgb(68, 68, 255);
-}
