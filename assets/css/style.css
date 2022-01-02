@@ -71,6 +71,15 @@ footer {
 
 h4 {
   font-size: 30px;
-
 }
 
+a {
+ color: white;
+}
+a:hover{
+  color: var(--gris-color);
+}
+
+a:visited {
+  color: rgb(68, 68, 255);
+}
